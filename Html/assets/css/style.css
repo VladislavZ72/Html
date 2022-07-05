@@ -1,0 +1,98 @@
+body {
+	background: #F2F2F2 no-repeat fixed center;
+
+}
+
+
+.test {
+	text-align: center; 
+	font-size: 30px;
+	font-family: Courier New;
+	font-weight: lighter;
+}
+
+.blok { 
+	box-shadow: 0 0 15px rgba(0,0,0,0.5);
+	font-size: 16px;
+	margin-left: 400px;
+	margin-right: 950px;
+	margin-bottom: 250px;
+	margin-top: 60px;
+    padding: 40px; /* Поля */
+    background: #fcfcfc; /* Цвет фона */
+    border: 0px solid ; /* Параметры рамки */
+   }
+
+.test2 {
+	font-size: 20px;
+}   
+
+.blok2 {
+	top: 107px;
+	left: 300px;
+	margin-left: 400px;
+	margin-right: 670px;
+	margin-top: 11px;
+	box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    position: absolute;
+    padding: 40px; /* Поля */
+    background: #fcfcfc; /* Цвет фона */
+    border: 0px solid ; /* Параметры рамки */
+   }
+
+.test3 {
+	font-size: 20px;
+}   
+
+.blok3 {
+	top: 101px;
+	left: 300px;
+	margin-left: 690px;
+	margin-right: 374px;
+	margin-top: 15px;
+	box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    position: absolute;
+    padding: 30px; /* Поля */
+    background: #fcfcfc; /* Цвет фона */
+    border: 0px solid ; /* Параметры рамки */
+   }
+
+.test4 {
+	font-size: 20px;
+}   
+
+.image {
+	position: relative;
+}
+
+.img {
+	width: 360px;
+  height: 300px;
+  position: absolute;
+  top: -250px;
+  left: 625px;
+  border-radius: 1000px;
+  border: 0px solid ; /* Параметры рамки */
+}
+
+.href1 {
+	position: absolute;
+	left: 750px;
+	top: 650px;
+}
+
+.href {
+	color: #000000;
+	text-decoration: none;
+}
+
+.href:after {
+	left: 72px;
+	content: "";
+	display: block;
+	width: 40%;
+	height: 3px;
+	background-color: #E96385;
+	position: absolute;
+	r
+}
